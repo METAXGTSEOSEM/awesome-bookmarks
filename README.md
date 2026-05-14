@@ -36,7 +36,6 @@
 * [SEO-Webmaster & Internet Marketing News](https://www.digitalpoint.com/)
 * [Google-GSC](https://search.google.com/search-console?resource_id=https%3A%2F%2Fgradin-lifts.com%2F)
 * [Bing Webmaster Tools](https://www.bing.com/webmasters/indexnow?siteUrl=https://gradin-lifts.com/&currentTab=Insights)
-* [Edit Post “2026 Guide to Vertical Logistics” - WordPress](https://gradin-lifts.com/wp-admin/post.php?post=6281&action=edit)
 * [Google Analytics | 了解网站和/或应用流量概览](https://analytics.google.com/analytics/web/#/a380603931p519893617/reports/dashboard)
 * [Google 跟踪代码管理器](https://tagmanager.google.com/#/container/accounts/6333866966/containers/240584982/workspaces/24/tags)
 * [Google Ads](https://ads.google.com/aw/keywords)
