@@ -39,7 +39,7 @@
 * [Google Analytics | 了解网站和/或应用流量概览](https://analytics.google.com/analytics/web/#/a380603931p519893617/reports/dashboard)
 * [Google 跟踪代码管理器](https://tagmanager.google.com/#/container/accounts/6333866966/containers/240584982/workspaces/24/tags)
 * [Google Ads](https://ads.google.com/aw/keywords)
-* [Pinterest](https://www.pinterest.com/gradinlifts/industrial-tilting-machines/)
+* [济南冠鼎机械设备有限公司-邮箱](https://mailh.qiye.163.com/static/sirius-web/)
 * [Google 云端硬盘](https://drive.google.com/drive/u/0/home)
 * [metaxgtseosem@gmail.com - Gmail](https://mail.google.com/mail/u/0/#inbox)
 * [Google 翻译](https://translate.google.com/?hl=zh-cn&sl=auto&tl=zh-CN&op=translate)
