@@ -308,6 +308,7 @@
 
 * [Flowponent - Webflow组件库](https://www.flowponent.com/)
 * [FigComponents - Figma组件资源](https://www.figcomponents.com/)
+* [Cursive Generation Font Pairing Assistant](https://cursive-generation.com/font-pairing-assistant) - 免费的装饰性标题字体与正文字体搭配参考；付费字体和练习册另售。
 
 ---
 
